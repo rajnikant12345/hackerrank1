@@ -1,3 +1,7 @@
+/*
+    https://www.hackerrank.com/contests/booking-hacakathon/challenges/similar-destinations/problem
+*/
+
 package main
 
 import (
