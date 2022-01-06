@@ -1,5 +1,5 @@
 /*
-    https://www.hackerrank.com/contests/booking-hacakathon/challenges/similar-destinations/problem
+    https://www.hackerrank.com/contests/booking-hackathon/challenges/similar-destinations/problem
 */
 
 package main
